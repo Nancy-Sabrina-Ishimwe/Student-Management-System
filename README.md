@@ -12,3 +12,4 @@
 4.You also need to add info of the new key you want to add in index.js mine is newStudent1.
 5. For the update you first use exists and find function to look if the object or values you want exist.
 6.For updating many you  pass the id and obj.
+enjoy coding.
