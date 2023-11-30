@@ -45,7 +45,7 @@ const remove = (id,obj) => {
         // var index = students.indexOf(exists);
         // students.splice(index,1);
         // console.log("Student removed");
-
+    
         var remaining = [];
         remaining = students.filter(ele=>ele.id !==id);
         console.log(remaining);
